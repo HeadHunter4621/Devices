@@ -1,2 +1,6 @@
 # All-My-Computers
-Idk listing my computers I guess
+## In list:  
+None :(
+$$ TODO:
+- Make template
+- Add stuff
