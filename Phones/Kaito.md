@@ -1,7 +1,7 @@
 # [Short name]
 ## Info
 - Model:
-- Full Name: [Name] (Name from [Link to character website?])
+- Full Name: [Name]
 - Hostname:
 
 ## Specs
@@ -11,6 +11,8 @@
 - GPU:
 - OS:
 
+## Fastfetch ([mm-dd-yy HH-mm-ss])
+[Fastfetch result (if possible)]
 
 ## Usage
 - Use
