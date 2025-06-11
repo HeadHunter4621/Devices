@@ -2,7 +2,7 @@
 ## Info
 - Model: Dell Inspiron 5490 AIO
 - Full Name: Adachi Rei
-- Hostname:
+- Hostname: rei-adachi
 
 ## Specs
 - RAM: 8 GB

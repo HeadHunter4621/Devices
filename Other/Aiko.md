@@ -1,16 +1,16 @@
-# [Short name]
+# Aiko
 ## Info
-- Model:
-- Full Name: [Name]
-- Hostname:
+- Model: Apple Watch Series 7
+- Full Name: Aiko Kikyuune
+- Hostname: Aiko
 
 ## Specs
-- RAM:
-- Storage:
-- CPU:
-- GPU:
-- OS:
+- RAM: 1 GB
+- Storage: 32 GB
+- CPU: Apple S7
+- GPU: Apple S7
+- OS: WatchOS 26 DB1
 
 ## Usage
-- Use
-- Working?
+- Watch
+- Works fine

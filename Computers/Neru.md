@@ -6,7 +6,7 @@
 
 ## Specs
 - RAM: 32 GB
-- Storage: 9 TB main (RAID 0), 1 TB extra (RAID 1 I think)
+- Storage: 9 TB main (RAID 0, 3x 3 TB), 1 TB extra (RAID 1 I think, 4x 1 TB)
 - CPU: 2x Intel Xeon E5-2420
 - GPU: None?
 - OS: ProxMox VE 8.3.0

@@ -1,4 +1,4 @@
-# [Short name]
+# Leon
 ## Info
 - Model: HP Pavilion DV8301NR
 - Full Name: LEON

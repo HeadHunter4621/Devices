@@ -5,8 +5,8 @@
 - Hostname: Miku
 
 ## Specs
-- RAM: 16GB
-- Storage: 512GB primary, 1TB secondary
+- RAM: 16 GB
+- Storage: 512 GB primary, 1 TB secondary
 - CPU: Intel Core i5-11400F @ 2.6 GHz
 - GPU: NVIDIA GeForce RTX 2060
 - OS: Windows 11 24H2

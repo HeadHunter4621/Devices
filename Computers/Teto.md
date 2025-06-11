@@ -8,7 +8,7 @@
 - RAM: 20 GB
 - Storage: 256 GB
 - CPU: Intel Core i5-1135G7
-- GPU: Intel Xe
+- GPU: Intel Iris Xe
 - OS: Windows 11 24H2
 
 ## Fastfetch ([mm-dd-yy HH-mm-ss])

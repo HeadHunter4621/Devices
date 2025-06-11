@@ -1,17 +1,17 @@
-# [Short name]
+# Meno
 ## Info
-- Model:
-- Full Name: [Name] (Name from [Link to character website?])
-- Hostname:
+- Model: iPhone 5s
+- Full Name: Oune Meno
+- Hostname: Meno
 
 ## Specs
-- RAM:
-- Storage:
-- CPU:
-- GPU:
-- OS:
+- RAM: 1 GB
+- Storage: 16 GB
+- CPU: Apple A7
+- GPU: PowerVR G6430
+- OS: iOS 12.5.7
 
 
 ## Usage
-- Use
-- Working?
+- iPod basically
+- In surprisingly good condition (found for $15 at a GoodWill)

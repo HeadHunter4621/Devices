@@ -1,16 +1,16 @@
-# [Short name]
+# Meiko
 ## Info
-- Model:
-- Full Name: [Name]
-- Hostname:
+- Model: Meiko
+- Full Name: MEIKO
+- Hostname: Meiko
 
 ## Specs
-- RAM:
-- Storage:
-- CPU:
-- GPU:
-- OS:
+- RAM: 2 GB
+- Storage: 64 GB
+- CPU: Apple A11 Bionic
+- GPU: Apple A11 Bionic
+- OS: iOS 16.7.10
 
 ## Usage
-- Use
-- Working?
+- Nothing
+- Very cracked but works fine I guess

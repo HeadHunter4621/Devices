@@ -1,19 +1,19 @@
-# [Short name]
+# Kaito
 ## Info
-- Model:
-- Full Name: [Name]
-- Hostname:
+- Model: Samsung A52 5G
+- Full Name: KAITO
+- Hostname: Kaito
 
 ## Specs
-- RAM:
-- Storage:
-- CPU:
-- GPU:
+- RAM: 8 GB
+- Storage: 128 GB
+- CPU: Qualcomm SM7225 Snapdragon 750G 5G
+- GPU: Adreno 619
 - OS:
 
-## Fastfetch ([mm-dd-yy HH-mm-ss])
+## Fastfetch ([mm-dd-yy HH-mm-ss]) (Termux)
 [Fastfetch result (if possible)]
 
 ## Usage
-- Use
-- Working?
+- No use
+- Works I guess

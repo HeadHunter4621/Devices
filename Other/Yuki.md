@@ -1,16 +1,16 @@
-# [Short name]
+# Yuki
 ## Info
-- Model:
-- Full Name: [Name]
-- Hostname:
+- Model: Nintendo Switch Lite
+- Full Name: Kaai Yuki
+- Hostname: Yuki
 
 ## Specs
-- RAM:
-- Storage:
-- CPU:
-- GPU:
-- OS:
+- RAM: 4 GB
+- Storage: 32 GB
+- CPU: NVIDIA Tegra
+- GPU: NVIDIA Tegra
+- OS: 20.1.1
 
 ## Usage
-- Use
-- Working?
+- Not used much (I use my family's Switch OLED)
+- Works fine

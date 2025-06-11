@@ -1,16 +1,16 @@
-# [Short name]
+# Luka
 ## Info
-- Model:
-- Full Name: [Name]
-- Hostname:
+- Model: Apple iPad 9
+- Full Name: Megurine Luka
+- Hostname: Luka
 
 ## Specs
-- RAM:
-- Storage:
-- CPU:
-- GPU:
-- OS:
+- RAM: 3 GB
+- Storage: 64 GB
+- CPU: Apple A13 Bionic
+- GPU: Apple A13 Bionic
+- OS: iPadOS 26 DB1
 
 ## Usage
-- Use
-- Working?
+- iPad? I don't use it for much
+- Works fine
