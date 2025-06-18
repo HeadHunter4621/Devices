@@ -11,7 +11,7 @@
 - GPU: 
 - OS:
 
-## Fastfetch (as of [mm-dd-yy HH-mm-ss])
+## Fastfetch (as of [mm-dd-yyyy])
 [Fastfetch result (if possible)]
 
 ## Usage
