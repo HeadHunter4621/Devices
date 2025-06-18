@@ -12,6 +12,7 @@
 - OS: Windows 11 24H2
 
 ## Fastfetch (06-17-2025)
+```
 PS C:\Users\Kona> fastfetch
 /////////////////  /////////////////    Kona@Teto
 /////////////////  /////////////////    ---------
@@ -37,6 +38,8 @@ PS C:\Users\Kona> fastfetch
                                         Disk (C:\): 119.46 GiB / 237.72 GiB (50%) - NTFS
                                         Battery (PP03043X): 85% (3 hours, 41 mins remaining) [Discharging]
                                         Locale: en-US
+```                                        
+                                        
 ## Usage
 - Laptop (don't use much though because battery is bad)
 - Works fine, but frame is bent
