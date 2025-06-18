@@ -11,7 +11,7 @@
 - GPU: ATI Radeon XPress 200M
 - OS: Alpine Linux 3.21
 
-## Fastfetch ([mm-dd-yyyy])
+## Fastfetch (06-17-2025)
 ```
        .hddddddddddddddddddddddh.           root@pavilionlaptop
       :dddddddddddddddddddddddddd:          ------------------- 
