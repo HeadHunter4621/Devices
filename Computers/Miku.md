@@ -11,7 +11,7 @@
 - GPU: NVIDIA GeForce RTX 2060
 - OS: Windows 11 24H2
 
-## Fastfetch (06-11-25 09:35)
+## Fastfetch (06-11-2025)
 ```
 PS C:\Users\kona> fastfetch
 /////////////////  /////////////////    kona@Miku

@@ -10,7 +10,7 @@
 - Chipset: Mediatek Dimensity 720
 - OS: Android 13
 
-## Fastfetch ([mm-dd-yy HH-mm-ss]) (Termux)
+## Fastfetch (06-17-2025) (Termux)
 ```
          -o          o-             u0_a117@localhost
           +hydNNNNdyh+              -----------------

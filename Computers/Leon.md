@@ -11,7 +11,7 @@
 - GPU: ATI Radeon XPress 200M
 - OS: Alpine Linux 3.21
 
-## Fastfetch ([mm-dd-yy HH-mm-ss])
+## Fastfetch ([mm-dd-yyyy])
 [Fastfetch result (if possible)]
 
 ## Usage

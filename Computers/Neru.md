@@ -11,8 +11,8 @@
 - GPU: None?
 - OS: ProxMox VE 8.3.0
 
-## Fastfetch ([mm-dd-yy HH-mm-ss])
-[Fastfetch result (if possible)]
+## Fastfetch ([mm-dd-yyyy])
+I want to run Fastfetch, but I don't know if it's safe to run it directly on the node
 
 ## Usage
 - Main Server

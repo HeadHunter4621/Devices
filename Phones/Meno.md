@@ -11,7 +11,6 @@
 - GPU: PowerVR G6430
 - OS: iOS 12.5.7
 
-
 ## Usage
 - iPod basically
 - In surprisingly good condition (found for $15 at a GoodWill)
