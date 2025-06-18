@@ -11,7 +11,7 @@
 - GPU: Intel Iris Xe
 - OS: Windows 11 24H2
 
-## Fastfetch (06-17-2025)
+## Fastfetch (06-18-2025)
 ```
 PS C:\Users\Kona> fastfetch -c all.jsonc
                                         Kona@Teto
