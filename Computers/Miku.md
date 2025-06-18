@@ -35,7 +35,7 @@
                                         Swap: 469.88 MiB / 11.50 GiB (4%)
                                         Disk (C:\): 451.93 GiB / 464.96 GiB (97%) - NTFS
                                         Disk (E:\): 856.00 GiB / 931.50 GiB (92%) - NTFS
-                                        Local IP (Ethernet): [redacted]
+
                                         Locale: en-US
 ```
 
